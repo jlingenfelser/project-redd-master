@@ -4,7 +4,7 @@ permalink: /
 
 <div align="left">
     <a href="https://jlingenfelser.github.io/project-redd-master/">
-        <img src="/main.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
+        <img src="../main.png" alt="Project Red" title="Project Red" width="350" />
     </a>
 </div>
 
