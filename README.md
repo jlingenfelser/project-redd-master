@@ -4,9 +4,7 @@
     </a>
 </div>
 
-# **Prologue**
-
-Prologue.
+## Prologue.
 
 As I write this my body’s going numb and I’m afraid no one will remember me. 
 
