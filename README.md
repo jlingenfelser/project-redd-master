@@ -1,31 +1,17 @@
-# GH Pages Site (No Jekyll)
-> Template for a Markdown-based docs site hosted on GH Pages
-
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-
-Write Markdown or HTML pages and use GitHub's default theme for your site. No configuration needed. All you need is HTML, Markdown, and CSS knowledge - no need to use Jekyll templating or Liquid syntax.
-
-
-## Preview
-
-<div align="center">
-    <a href="https://michaelcurrin.github.io/gh-pages-no-jekyll/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
+<div align="left">
+    <a href="https://jlingenfelser.github.io/project-redd-master/">
+        <img src="/main.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
     </a>
 </div>
 
+# **Prologue**
+
+Prologue.
+
+As I write this my body’s going numb and I’m afraid no one will remember me. 
+
+There are things in this world I thought I could control but found I could not. There are other stories far more interesting than my own that have died on the lips of countless and been lost. I know this. But still I yearn to be heard, if only for a little while longer. I do not know why I fear to join those before me. But I do.
+
+So I will write, as this last light dies. My name is Ceili. I never had a last name. But you can call me Red. 
+
 <br>
-
-<div align="center">
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
-
-</div>
-
-
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
